@@ -1,0 +1,33 @@
+[
+    {
+        "input": "thank you",
+        "output": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+        "lang": "Malayalam"
+    },
+    {
+        "input": "thank you",
+        "output": "\u0c27\u0c28\u0c4d\u0c2f\u0c35\u0c3e\u0c26\u0c3e\u0c32\u0c41",
+        "lang": "Telugu"
+    },
+    {
+        "input": "thank you",
+        "output": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+        "lang": "Tamil"
+    },
+    {
+        "input": "thank you",
+        "output": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+        "lang": "Tamil"
+    },
+    {
+        "input": "how are you",
+        "output": "\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+        "lang": "Tamil"
+    },
+    {
+        "input": "love you baby",
+        "output": "\u0c28\u0c3f\u0c28\u0c4d\u0c28\u0c41 \u0c2a\u0c4d\u0c30\u0c47\u0c2e\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 \u0c2c\u0c47\u0c2c\u0c40",
+        "lang": "Telugu",
+        "timestamp": "2026-07-01 18:01"
+    }
+]
